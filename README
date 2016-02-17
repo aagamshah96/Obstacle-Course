@@ -1,0 +1,34 @@
+##Instructions
+
+The code does not need any additional libraries to run other than the basic ones.
+Just run 'make' and you are good to go.
+
+
+##Description
+
+The black line tells the current direction where the player is facing. Game gets tougher with increasing levels. Reach the Target block (10,10) within the stipulated time to go to the next level. Some blocks move up and down, while some are falling blocks. Beware of the falling blocks.
+
+
+##Controls
+
+
+#Keyboard:
+	
+ V - Change View.
+ Up Arrow - Move one step forward in the direction of moving.
+ Down Arrow - Move one step backward in the opposite direction of moving.
+ Right Arrow - Change direction of moving to the right of current.
+ Left Arrow - Change direction of moving to the left of current.
+ SpaceBar - Jump
+
+#Mouse:
+	
+ Left Mouse Click - Change direction of moving to the right of current.
+ Right Mouse Click - Move one step forward in the direction of moving.
+ Middle Mouse Click - Jump
+ Scroll Up - Zoom into the Helicopter View.
+ Scroll Down - Zoom out of the Helicopter View.
+
+
+
+Enjoy the game. Cheers...!
